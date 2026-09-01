@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beranda - XII TJKT 2</title>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>XII TJKT 2</h1>
+        <p>SMKN 1 KLATEN</p>
+    </header>
+
+    <nav>
+        <a href="index.html" class="active"><i class="fa-solid fa-house"></i> Beranda</a>
+        <a href="struktur.html"><i class="fa-solid fa-sitemap"></i> Pengurus & Anggota</a>
+        <a href="jadwal-pelajaran.html"><i class="fa-solid fa-calendar-days"></i> Jadwal Pelajaran</a>
+        <a href="jadwal-piket-kelas.html"><i class="fa-solid fa-broom"></i> Piket Kelas</a>
+        <a href="piket-lab.html"><i class="fa-solid fa-desktop"></i> Piket LAB</a>
+        <a href="galeri.html"><i class="fa-solid fa-images"></i> Galeri</a>
+        <a href="kontak.html"><i class="fa-solid fa-address-book"></i> Kontak</a>
+    </nav>
+
+    <div class="container">
+        <!-- Hero Section: Judul Kiri & Foto Kanan -->
+        <div class="card" style="padding: 20px;">
+            <div style="display: flex; gap: 20px; align-items: center; flex-wrap: wrap;">
+                
+                <!-- Sisi Kiri: Judul & Slogan -->
+                <div style="flex: 1; min-width: 260px;">
+                    <h2 style="color:var(--purple-main); font-size:1.6rem; margin-bottom:8px; line-height: 1.3;">
+                        Website Informasi<br>Kelas XII TJKT 2
+                    </h2>
+                    <p style="font-style:italic; color:var(--gold-accent); font-weight:700; margin-bottom:12px; font-size: 0.95rem;">
+                        "Bersama Belajar, Berkarya, dan Meraih Prestasi."
+                    </p>
+                    <p style="line-height:1.5; font-size:0.88rem; color:var(--text-dark);">
+                        Selamat datang di Website Informasi Kelas XII TJKT 2 SMKN 1 Klaten. Tempat informasi seputar profil, struktur, jadwal, dan kegiatan kelas.
+                    </p>
+                </div>
+
+                <!-- Sisi Kanan: Foto Kelas Ringkas -->
+                <div style="flex: 1; min-width: 260px;">
+                    <img src="foto-kelas-beranda.jpeg" alt="Foto Kelas XII TJKT 2" style="width: 100%; height: 160px; object-fit: cover; object-position:center 70%; border-radius: 12px; box-shadow: var(--shadow);">
+                    </div>
+
+                    <!-- Jika nanti foto asli sudah ada, ganti div photo-placeholder di atas dengan tag img ini:
+                    <img src="foto-kelas.jpg" alt="Foto Kelas XII TJKT 2" style="width:100%; height:160px; object-fit:cover; border-radius:12px;">
+                    -->
+                </div>
+
+            </div>
+        </div>
+
+        <!-- Profil Kelas -->
+        <div class="card">
+            <div class="card-title"><i class="fa-solid fa-school" style="color:var(--gold-accent);"></i> Profil Kelas</div>
+            <p style="line-height:1.6; margin-bottom:15px; font-size:0.9rem;">
+                XII TJKT 2 merupakan salah satu kelas Program Keahlian Teknik Jaringan Komputer dan Telekomunikasi (TJKT) di SMKN 1 Klaten. Kelas ini terdiri dari siswa yang memiliki semangat belajar, bekerja sama, dan mengembangkan keterampilan di bidang teknologi.
+            </p>
+            <div class="grid-org">
+                <div class="org-box"><div class="role">Wali Kelas</div><div class="name">Dwi Maya Sari, S.Kom</div></div>
+                <div class="org-box"><div class="role">Total Siswa</div><div class="name">34 Siswa</div></div>
+                <div class="org-box"><div class="role">Siswa Laki-laki</div><div class="name">14 Siswa</div></div>
+                <div class="org-box"><div class="role">Siswa Perempuan</div><div class="name">20 Siswa</div></div>
+            </div>
+        </div>
+
+        <!-- Visi & Misi -->
+        <div class="card">
+            <div class="card-title"><i class="fa-solid fa-bullseye" style="color:var(--gold-accent);"></i> Visi & Misi</div>
+            <div style="margin-bottom:15px;">
+                <h4 style="color:var(--purple-main); margin-bottom:5px;">Visi:</h4>
+                <p style="font-style:italic; font-size:0.9rem; background:#faf6fc; padding:10px; border-radius:8px;">
+                    "Mewujudkan kelas yang disiplin, berkarakter, berprestasi, kreatif, dan memiliki kompetensi sesuai bidang keahlian serta menjunjung tinggi nilai-nilai Profil Pelajar Pancasila."
+                </p>
+            </div>
+            <div>
+                <h4 style="color:var(--purple-main); margin-bottom:5px;">Misi:</h4>
+                <ol style="padding-left:20px; font-size:0.9rem; line-height:1.8;">
+                    <li>Menumbuhkan budaya disiplin dan tanggung jawab.</li>
+                    <li>Menciptakan lingkungan belajar yang aman, nyaman, dan menyenangkan.</li>
+                    <li>Meningkatkan prestasi akademik dan nonakademik.</li>
+                    <li>Mengembangkan sikap gotong royong dan kepedulian sosial.</li>
+                    <li>Menjaga kebersihan dan keindahan kelas.</li>
+                    <li>Mengembangkan keterampilan teknologi dan literasi.</li>
+                    <li>Menanamkan nilai kejujuran dan etika dalam pembelajaran.</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+
+    <footer><p>&copy; XII TJKT 2 - SMKN 1 Klaten</p></footer>
+</body>
+</html>

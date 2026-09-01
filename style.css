@@ -1,0 +1,274 @@
+:root {
+    --purple-main: #3b1c54;      /* Ungu Klasik Tua */
+    --purple-light: #522576;     /* Ungu Soft */
+    --purple-accent: #8b3dff;    /* Ungu Cerah */
+    --gold-accent: #d4af37;      /* Emas Klasik */
+    --bg-light: #fdfbfd;         /* BG Soft */
+    --surface: #ffffff;
+    --text-dark: #221233;
+    --text-muted: #665275;
+    --border: #e8deee;
+    --shadow: 0 4px 15px rgba(59, 28, 84, 0.08);
+    --shadow-hover: 0 8px 25px rgba(59, 28, 84, 0.18);
+}
+
+* { 
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box; 
+    font-family: 'Plus Jakarta Sans', sans-serif; 
+}
+
+body { 
+    background-color: var(--bg-light); 
+    color: var(--text-dark); 
+    padding-bottom: 50px; 
+}
+
+/* Header Banner */
+header {
+    background: linear-gradient(135deg, var(--purple-main), var(--purple-light));
+    color: white; 
+    padding: 40px 20px 30px; 
+    text-align: center;
+    border-bottom: 4px solid var(--gold-accent); 
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+}
+header h1 { 
+    font-size: 2rem; 
+    font-weight: 700; 
+    letter-spacing: 1px; 
+}
+header p { 
+    font-size: 0.9rem; 
+    opacity: 0.85; 
+    margin-top: 5px; 
+}
+
+/* Navigasi */
+nav {
+    display: flex; 
+    justify-content: center; 
+    gap: 8px; 
+    flex-wrap: wrap;
+    margin: -22px auto 30px; 
+    padding: 0 15px; 
+    max-width: 1000px;
+}
+nav a {
+    background: var(--surface); 
+    color: var(--purple-main); 
+    text-decoration: none;
+    padding: 10px 16px; 
+    border-radius: 25px; 
+    font-weight: 600; 
+    font-size: 0.85rem;
+    border: 1px solid var(--border); 
+    box-shadow: var(--shadow); 
+    transition: all 0.3s ease;
+    display: flex; 
+    align-items: center; 
+    gap: 6px;
+}
+nav a:hover { 
+    background: var(--purple-main); 
+    color: var(--gold-accent); 
+    transform: translateY(-3px); 
+    box-shadow: var(--shadow-hover); 
+}
+nav a.active { 
+    background: var(--purple-main); 
+    color: #fff; 
+    border-color: var(--gold-accent); 
+}
+
+/* Container & Cards */
+.container { 
+    max-width: 900px; 
+    margin: 0 auto; 
+    padding: 0 15px; 
+}
+.card {
+    background: var(--surface); 
+    padding: 24px; 
+    border-radius: 16px; 
+    border: 1px solid var(--border);
+    box-shadow: var(--shadow); 
+    margin-bottom: 24px; 
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.card:hover { 
+    box-shadow: var(--shadow-hover); 
+}
+.card-title {
+    font-size: 1.2rem; 
+    font-weight: 700; 
+    color: var(--purple-main); 
+    margin-bottom: 16px;
+    border-bottom: 2px solid var(--border); 
+    padding-bottom: 8px; 
+    display: flex; 
+    align-items: center; 
+    gap: 10px;
+}
+
+/* Grid Menu & Elemen Klik */
+.grid-2 { 
+    display: grid; 
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); 
+    gap: 16px; 
+}
+.grid-org { 
+    display: grid; 
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); 
+    gap: 12px; 
+}
+
+.org-box {
+    background: #fcf9fe; 
+    padding: 12px 16px; 
+    border-radius: 10px; 
+    border-left: 4px solid var(--purple-main);
+    border-top: 1px solid var(--border); 
+    border-right: 1px solid var(--border); 
+    border-bottom: 1px solid var(--border);
+    transition: all 0.25s ease;
+}
+.org-box:hover { 
+    background: #f5ebfd; 
+    transform: translateX(4px); 
+    border-left-color: var(--gold-accent); 
+}
+.role { 
+    font-size: 0.75rem; 
+    color: var(--purple-light); 
+    font-weight: 700; 
+    text-transform: uppercase; 
+}
+.name { 
+    font-weight: 600; 
+    font-size: 0.95rem; 
+    color: var(--text-dark); 
+}
+
+/* Member List */
+.member-list { 
+    display: grid; 
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); 
+    gap: 10px; 
+    list-style: none; 
+}
+.member-item {
+    background: #faf6fc; 
+    padding: 10px 14px; 
+    border-radius: 8px; 
+    border: 1px solid var(--border);
+    font-size: 0.9rem; 
+    font-weight: 500; 
+    display: flex; 
+    align-items: center; 
+    gap: 10px; 
+    transition: all 0.2s ease; 
+    cursor: pointer;
+}
+.member-item:hover { 
+    background: var(--purple-main); 
+    color: white; 
+    transform: scale(1.02); 
+}
+.member-num {
+    background: var(--purple-light); 
+    color: white; 
+    font-size: 0.75rem; 
+    font-weight: 700; 
+    width: 24px; 
+    height: 24px;
+    border-radius: 50%; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+}
+.member-item:hover .member-num { 
+    background: var(--gold-accent); 
+    color: var(--text-dark); 
+}
+
+/* Table Style */
+table { 
+    width: 100%; 
+    border-collapse: collapse; 
+    margin-top: 10px; 
+}
+th, td { 
+    border: 1px solid var(--border); 
+    padding: 12px; 
+    text-align: left; 
+    font-size: 0.9rem; 
+}
+th { 
+    background: var(--purple-main); 
+    color: white; 
+}
+tr:nth-child(even) { 
+    background: #faf6fc; 
+}
+
+/* Photo Gallery Grid & Image Styling */
+.gallery-grid { 
+    display: grid; 
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); 
+    gap: 15px; 
+    margin-top: 15px; 
+}
+
+.gallery-grid img {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.gallery-grid img:hover {
+    transform: translateY(-4px) scale(1.02);
+    box-shadow: var(--shadow-hover) !important;
+}
+
+.photo-placeholder {
+    background: #f3ebf7; 
+    border: 2px dashed var(--purple-light); 
+    border-radius: 12px; 
+    height: 160px;
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center; 
+    color: var(--purple-light);
+    font-size: 0.85rem; 
+    font-weight: 600; 
+    text-align: center; 
+    padding: 10px; 
+    cursor: pointer; 
+    transition: all 0.3s ease;
+}
+.photo-placeholder:hover { 
+    background: #eadef2; 
+    border-color: var(--gold-accent); 
+    color: var(--purple-main); 
+    transform: translateY(-3px); 
+}
+.photo-placeholder i { 
+    font-size: 2rem; 
+    margin-bottom: 8px; 
+    color: var(--gold-accent); 
+}
+
+footer { 
+    text-align: center; 
+    margin-top: 30px; 
+    color: var(--text-muted); 
+    font-size: 0.85rem; 
+}
+.petunjuk-foto {
+    text-align: center;
+    color: #8b3dff;
+    font-size: 13px;
+    font-style: italic;
+    margin: 8px 0 15px;
+}

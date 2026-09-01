@@ -1,0 +1,241 @@
+1. Identitas Website
+Nama sekolah:
+SMKN 1 KLATEN
+Nama kelas:
+XII TJKT 2
+Logo sekolah (opsional) terakhir
+2. Beranda
+Judul website: 
+Website Informasi Kelas XII TJKT 2
+Kalimat sambutan singkat:
+Selamat datang di Website Informasi Kelas XII TJKT 2 SMKN 1 Klaten. Website ini dirancang untuk memberikan informasi seputar kelas, mulai dari profil, struktur organisasi, jadwal pelajaran, kegiatan, hingga galeri dokumentasi. Semoga website ini dapat menjadi sumber informasi yang bermanfaat bagi seluruh warga sekolah dan masyarakat.
+Slogan kelas (opsional):
+"Bersama Belajar, Berkarya, dan Meraih Prestasi."
+3. Profil Kelas
+Nama wali kelas:
+Dwi Maya Sari, S.Kom
+Jumlah siswa: 34
+Jumlah siswa laki-laki: 14
+Jumlah siswa perempuan: 20
+Deskripsi singkat tentang kelas:
+XII TJKT 2 merupakan salah satu kelas Program Keahlian Teknik Jaringan Komputer dan Telekomunikasi (TJKT) di SMKN 1 Klaten. Kelas ini terdiri dari siswa yang memiliki semangat belajar, bekerja sama, dan mengembangkan keterampilan di bidang teknologi. Selain mengikuti pembelajaran di kelas, siswa juga aktif dalam kegiatan praktik, proyek, dan berbagai kegiatan sekolah untuk meningkatkan kompetensi dan pengalaman.
+4. Visi dan Misi
+Visi kelas:
+"Mewujudkan kelas yang disiplin, berkarakter, berprestasi, kreatif, dan memiliki kompetensi sesuai bidang keahlian
+ serta menjunjung tinggi nilai-nilai Profil Pelajar Pancasila."
+Misi kelas:
+1. Menumbuhkan budaya disiplin dan tanggung jawab.
+2. Menciptakan lingkungan belajar yang aman, nyaman, dan menyenangkan.
+3. Meningkatkan prestasi akademik dan nonakademik.
+4. Mengembangkan sikap gotong royong dan kepedulian sosial.
+5. Menjaga kebersihan dan keindahan kelas.
+6. Mengembangkan keterampilan teknologi dan literasi.
+7. Menanamkan nilai kejujuran dan etika dalam pembelajaran.
+5. Struktur Organisasi
+Ketua kelas: Khairunnisa Ramadhani
+Wakil ketua: Muhammad Satrihatmojo
+Sekretaris 1: Julia Kurnia Wati
+Sekretaris 2: Avrillia Putri Sabila
+Bendahara 1: Aourel Nur Azhura
+Bendahara 2: Aisha Alifa Islamidina
+Koordinator Kebersihan: - Muklis Drajat Wiyoto
+                - Fauzan Ardiansyah
+Koordinator Keamanan dan Ketertiban: - Khansa Nuza Maritza
+                                     - Alvinza Ghany A.
+Koordinator Kerohanian: - Ayu Nur Hidayati
+                        - Kenathan Dzaky
+Koordinator Literasi dan Teknologi: - Alim Bandaru Mulya
+                                    - Kevin Zulfikar Aqib S.
+Koordinator Sarana dan Prasarana: - Salman Alfarishy
+                                  - Cyril Dwi Noviyanto
+Koordinator Humas: - Rochmad Wahyu Aditya R.S.
+                   - Rizka Alfiani Putri
+Koordinator Dokumentasi: - Irfan Agung Pratama
+                         - Chanif Sehti Hilal
+Anggota Kelas:
+1. Andika Yoga Pratama
+2. Anisa Sekar Wijayanti
+3. Fatimah Zahro
+4. Fauzan Azizan Efendi
+5. Indah Maulidia
+6. Isnaini Wahyu Nurjanah
+7. Lintang Dea Elsaputri
+8. Marlena Eka Nuraini
+9. Nabila Alya Mukhbita Fimi
+10. Nadhifah Ramadhani
+11. Novitania Ayudya Permata
+12. Nurul Azizah Handayani
+13. Risma Juni Alisa
+14. Vivia Eva Cahaya
+
+6. Jadwal Pelajaran
+Jadwal hari Senin–Jumat
+Senin:
+Bahasa Inggris 
+Bahasa Inggris
+Bahasa Inggris
+Bahasa Inggris
+Konsentrasi Keahlian
+Konsentrasi Keahlian
+Konsentrasi Keahlian
+Konsentrasi Keahlian
+Konsentrasi Keahlian
+Konsentrasi Keahlian
+Konsentrasi Keahlian
+
+Selasa:
+Bahasa Indonesia
+Bahasa Indonesia
+Bahasa Indonesia
+Pendidikan Agama
+Pendidikan Agama
+Pendidikan Agama
+Rekayasa Perangkat Lunak
+Rekayasa Perangkat Lunak
+Rekayasa Perangkat Lunak
+Rekayasa Perangkat Lunak
+
+Rabu:
+Bahasa Jawa
+Bahasa Jawa
+Bimbingan Konseling
+Konsentrasi Keahlian
+Konsentrasi Keahlian
+Konsentrasi Keahlian
+Konsentrasi Keahlian
+Konsentrasi Keahlian
+Konsentrasi Keahlian
+Konsentrasi Keahlian
+
+Kamis:
+Konsentrasi Keahlian
+Konsentrasi Keahlian
+Konsentrasi Keahlian
+Konsentrasi Keahlian
+Konsentrasi Keahlian
+Konsentrasi Keahlian
+Konsentrasi Keahlian
+Konsentrasi Keahlian
+Pendidikan Pancasila
+Pendidikan Pancasila
+
+Jumat:
+Matematika
+Matematika
+Matematika
+Kreativitas, Inovasi, dan Kewirausahaan
+Kreativitas, Inovasi, dan Kewirausahaan
+Kreativitas, Inovasi, dan Kewirausahaan
+Kreativitas, Inovasi, dan Kewirausahaan
+Kreativitas, Inovasi, dan Kewirausahaan
+
+Mata Pelajaran dan Guru Pengampu
+1. Bahasa Inggris – Puji Susila Utami, S.Pd
+2. Bahasa Indonesia – Alfidiya Faiz, S.Pd
+3. Bahasa Jawa – Didik Setiyo Prayogo, S.Pd
+4. BK – Deni Liya Astuti, S.Pd
+5. Konsentrasi Keahlian – Shinta Rusdiana, S.Kom; Rodemptus Joko Pamungkas, ST; Haryadi, S.Kom
+6. Kreativitas, Inovasi, dan Kewirausahaan – Eko Sutikno, S.Kom
+7. Matematika – Widodo, S.Pd
+8. Pendidikan Agama Islam – Sholikul Amri, S.Pd.I., M.Pd
+9. Pendidikan Pancasila – Sutarti, M.Pd
+10. Rekayasa Perangkat Lunak – Dwi Maya Sari, S.Kom
+
+Jadwal piket Kelas:
+Senin
+Avrilia Putri Sabila
+Ayu Nur Hidayati
+Kenathan Dzaky
+Vivia Eva Cahaya
+Isnaini Wahyu Nurjanah
+Cyril Dwi Noviyanto
+
+Selasa
+Fauzan Ardiansyah
+Andika Yoga Pratama
+Khansa Nuza Maritza
+Aourel Nur Azhura
+Indah Maulidia
+Kevin Zulfikar Aqib Syaifudin
+Muklis Drajat Wiyoto
+
+Rabu
+Alim Bandaru Mulya
+Fauzan Azizan Efendi
+Muhammad Satrihatmojo
+Julia Kurnia Wati
+Chanif Sehti Hilal
+Novitania Ayudya Permata
+Lintang Dea Elsaputri
+
+Kamis
+Alvinza Ghany A.
+Risma Juni Alisa
+Khairunnisa Ramadhani
+Fatimah Zahro
+Nadhifah Ramadhani
+Nurul Azizah Handayani
+Rizka Alfiani Putri
+
+Jumat
+Marlena Eka Nuraini
+Aisha Alifa Islamidina
+Salman Alfarishy
+Anisa Sekar Wijayanti
+Nabila Alya Mukhbita F.
+Irfan Agung Pratama
+Rochmad Wahyu Aditya Rizki S.
+
+
+Jadwal Piket LAB:
+Senin:
+Kevin Zulfikar Aqib Syaifudin
+Fauzan Azizan Efendi
+Lintang Dea Elsaputri
+Nadhifah Ramadhani
+Cyril Dwi Noviyanto
+Fauzan Ardiansyah
+Kenathan Dzaky
+Rizka Alfiani Putri
+Khansa Nuza Maritza
+
+Selasa:
+Indah Maulidia
+Muhammad Satrihatmojo
+Aourel Nur Azhura
+Muklis Drajat Wiyoto
+Ayu Nur Hidayati
+Nurul Aziizah Handayani
+Aisha Alifa Islamidina
+Chanif Sehti Hilal
+
+Rabu:
+Vivia Eva Cahaya
+Rochmad Wahyu Aditya Rizki S.
+Salman Alfarishy
+Khairunnisa Ramadhani
+Alim Bandaru Mulya
+Marlena Eka Nuraini
+Andika Yoga Pratama
+Avrilia Putri Sabila
+
+Kamis:
+Fatimah Zahro
+Isnaini Wahyu Nurjanah
+Nabila Alya Mukhbita F.
+Anisa Sekar Wijayanti
+Irfan Agung Pratama
+Risma Juni Alisa
+Alvinza Ghany A.
+Novitania Ayudya Permata
+
+
+
+9. Kontak
+Alamat sekolah: Jl. Dr.Wahidin Sudiro Husodo No.22,Klaten Utara, Kabupaten Klaten, Jawa Tengah.
+Email sekolah (opsional): smkn20309691@gmail.com
+Telepon: 0272321266
+Website sekolah: https://smkn1klaten.sch.id
+Media sosial kelas atau sekolah: 
+media sosial sekolah: @smkn1klaten
+media sosial kelas: tjktwoo_
